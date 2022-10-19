@@ -39,6 +39,6 @@
     "href": "assignment1.html#math-operator",
     "title": "1  Assignment 1",
     "section": "1.1 Math Operator",
-    "text": "1.1 Math Operator\nThe + operator is used to add together two values:\n\n10 + 5\n\n[1] 15"
+    "text": "1.1 Math Operator\nThe + operator is used to add together two values: And the - operator is used for subtraction: The sqrt() function returns the square root of a number:\n\n10 + 5\n\n[1] 15\n\n10 - 5\n\n[1] 5\n\nsqrt(16)\n\n[1] 4"
   }
 ]
