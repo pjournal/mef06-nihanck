@@ -1,0 +1,41 @@
+---
+title: "In Class Assignment1"
+date: "2022-10-19"
+---
+
+
+First I installed the packages with the below commands;
+
+install.packages("tidyverse")
+install.packages("nycflights13")
+
+Let's call the packages :
+
+```{r}
+library(tidyverse)
+library(nycflights13)
+```
+We can see there are 3,222 rows and 9 columns. We can see the columns names and data type 
+```{r}
+planes %>% glimpse()
+```
+Let's see the number of planes belonging to the manufacturers. 
+
+```{r}
+planes %>% 
+  group_by(manufacturer) %>% 
+  summarise(count=n()) %>% 
+  arrange(manufacturer) %>% 
+  print(n=Inf)
+
+```
+Let's get the number of plane numbers for each year
+
+```{r}
+planes %>% 
+  group_by(year) %>% 
+  summarise(count=n()) %>% 
+  arrange(year) %>% 
+  print(n=Inf)
+
+```

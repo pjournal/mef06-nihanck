@@ -1,9 +1,9 @@
 {
     "id": "0A09447F",
-    "path": "~/GitHub/mef06-nihanck/_quarto.yml",
+    "path": "C:/Users/nihan.koksoy/Dropbox/PC/Desktop/mef06-nihanck/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "3816316867",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1666084444594.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1666087884,
+    "lastKnownWriteTime": 1667397976,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1666087884431,
+    "last_content_update": 1667397976,
     "read_only": false,
     "read_only_alternatives": []
 }
