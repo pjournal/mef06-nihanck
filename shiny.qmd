@@ -1,0 +1,10 @@
+---
+title: "Shiny Homework"
+date: "2022-11-24"
+---
+
+## Explanation
+
+This application shows the foreign students according to selected Type, City and University
+
+[Here is the link](https://nihanck.shinyapps.io/Shiny/)
